@@ -19,9 +19,7 @@ except:
     def pogoda(*args, **kwargs):
         return None
 """
-# spinner podczas długiej operacji
 inter.printb("Ładowanie modelu...")
-result = inter.spinner("sleep(3)", exec_or_eval="exec")
 inter.printb(f"Zakończono: {result}", kolor="green")
 choice = inter.inputs(
     "ok> ",
