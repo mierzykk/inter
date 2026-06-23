@@ -1,0 +1,28 @@
+{
+  "imiona": {
+    "meskie": [
+      "Jan","Piotr","Andrzej","Krzysztof","Tomasz","Paweł","Michał","Marcin","Jakub","Adam",
+      "Łukasz","Mateusz","Grzegorz","Marek","Sebastian","Kamil","Daniel","Dawid","Bartosz","Karol",
+      "Rafał","Maciej","Szymon","Artur","Przemysław","Adrian","Damian","Patryk","Norbert","Filip",
+      "Igor","Oskar","Hubert","Dominik","Wojciech","Stanisław","Jerzy","Cezary","Mariusz","Dariusz",
+      "Leszek","Bogdan","Zbigniew","Henryk","Tadeusz","Kazimierz","Emil","Konrad","Alan","Leon",
+      "Maksymilian","Nikodem","Antoni","Franciszek","Aleksander","Wiktor","Miłosz","Bruno","Tymon","Kacper"
+    ],
+    "zenskie": [
+      "Anna","Maria","Katarzyna","Agnieszka","Barbara","Ewa","Magdalena","Elżbieta","Małgorzata","Joanna",
+      "Aleksandra","Zofia","Natalia","Julia","Karolina","Monika","Paulina","Dominika","Martyna","Weronika",
+      "Patrycja","Sylwia","Justyna","Beata","Izabela","Aneta","Kinga","Alicja","Oliwia","Amelia",
+      "Helena","Hanna","Maja","Lena","Laura","Antonina","Wiktoria","Emilia","Gabriela","Sandra",
+      "Klaudia","Dagmara","Iwona","Bożena","Krystyna","Teresa","Halina","Renata","Dorota","Grażyna",
+      "Edyta","Elwira","Nina","Blanka","Roksana","Tatiana","Liliana","Malwina","Daria","Kamila"
+    ]
+  },
+  "nazwiska": [
+    "Nowak","Kowalski","Wiśniewski","Wójcik","Kowalczyk","Kamiński","Lewandowski","Zieliński","Szymański","Woźniak",
+    "Dąbrowski","Kozłowski","Jankowski","Mazur","Wojciechowski","Kwiatkowski","Kaczmarek","Piotrowski","Grabowski","Nowakowski",
+    "Pawłowski","Michalski","Król","Wieczorek","Jabłoński","Wróbel","Majewski","Olszewski","Stępień","Jaworski",
+    "Malinowski","Adamczyk","Dudek","Górski","Pawlak","Walczak","Rutkowski","Michalak","Baran","Szewczyk",
+    "Pietrzak","Marciniak","Kubiak","Zając","Sawicki","Krupa","Lis","Sikora","Kaleta","Urban",
+    "Borkowski","Czarnecki","Bednarek","Konieczny","Sadowski","Musiał","Kurek","Olejniczak","Janik","Cieślak"
+  ]
+}
