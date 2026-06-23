@@ -6,11 +6,9 @@ Główne katalogi:
 - `inter/` — narzędzia interaktywne i moduły pomocnicze (`intermain/`).
 
 Ważne pliki:
-
-- [id_generator/main.py](id_generator/main.py)
-- [inter/to_change/inter.py](inter/to_change/inter.py)
-- [inter/to_change/intermain/ai.py](inter/to_change/intermain/ai.py)
-- [inter/to_change/intermain/id.py](inter/to_change/intermain/id.py)
+- [inter/to_change/inter.py](inter.py)
+- [inter/to_change/intermain/ai.py](intermain/ai.py)
+- [inter/to_change/intermain/id.py](intermain/id.py)
 
 Wymagania
 ----------
