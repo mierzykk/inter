@@ -2,13 +2,12 @@ Krótkie repo z narzędziami pomocniczymi i integracjami AI.
 
 Główne katalogi:
 
-- `id_generator/` — generator danych osobowych (PESEL itp.).
 - `inter/` — narzędzia interaktywne i moduły pomocnicze (`intermain/`).
 
 Ważne pliki:
-- [inter/to_change/inter.py](inter.py)
-- [inter/to_change/intermain/ai.py](intermain/ai.py)
-- [inter/to_change/intermain/id.py](intermain/id.py)
+- [inter.py](inter.py)
+- [intermain/ai.py](intermain/ai.py)
+- [intermain/id.py](intermain/id.py)
 
 Wymagania
 ----------
@@ -27,7 +26,7 @@ python -m venv .venv
 pip install requests
 ```
 
-2. (Opcjonalnie) skonfiguruj lokalny serwer LLM i ścieżki w `inter/to_change/intermain/ai.py` jeśli chcesz korzystać z lokalnych modeli.
+2. (Opcjonalnie) skonfiguruj lokalny serwer LLM i ścieżki w `intermain/ai.py` jeśli chcesz korzystać z lokalnych modeli.
 
 Bezpieczeństwo kluczy (ważne)
 ----------------------------
@@ -53,15 +52,10 @@ setx GEMINI_API_KEY "twoj klucz"
 Uruchamianie przykładowe
 ------------------------
 
-- Generator danych:
-
-```powershell
-python id_generator/main.py
-```
 
 - Szybki test `generete_id()` z `inter`:
 
 ```powershell
-python -c "from inter.to_change.inter import generete_id; print(generete_id())"
+python -c print(generete_id())"
 ```
 
